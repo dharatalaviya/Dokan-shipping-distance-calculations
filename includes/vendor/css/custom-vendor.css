@@ -1,0 +1,14 @@
+.range-item{ width:100%; }
+.range-item .dokan-w3{
+	width:25%;
+}
+.range-item .dokan-w2{
+	width:15%;
+}
+.range-item .dokan-w3, .range-item .dokan-w2{
+	margin: 10px 2.5px !important;
+}
+.range-item .dokan-trash-hide{ display: none !important }
+.btn-range-delete.fa-trash:before {
+    content: "\f1f8";
+}
